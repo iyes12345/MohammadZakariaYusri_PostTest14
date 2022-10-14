@@ -1,4 +1,4 @@
-package com.juaracoding.MohammadZakariaYusri;
+package org.juaracoding.MohammadZakariaYusri;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
